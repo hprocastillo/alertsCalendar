@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "caselapp-b768c": {
+      "hosting": {
+        "alertsCalendar": [
+          "caselapp-b768c"
+        ]
+      }
+    }
+  }
+}
